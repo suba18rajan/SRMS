@@ -1,5 +1,5 @@
 from login import Login_window
-from suba import RMS
+from dashboard import RMS
 from tkinter import *
 import tkinter
 
