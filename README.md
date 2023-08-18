@@ -1,5 +1,5 @@
 # SRMS
-STUDENT RESULT MANAGEMENT SYSTEM USING PYTHON:
+STUDENT RESULT MANAGEMENT SYSTEM USING PYTHON:<br> 
             Student Result Management System is a web-based application that mainly focuses on providing the results to the student and the faculty. The student checks their respective results using their university registered recognition id’s along with their grades and percentage of that semester. The student accessing their results through college site is more convenient and the faculty can easily analyze the pass and failure of a particular subject. The student using his roll number can view his results. Administrator has the power to add new user and can edit and delete user. Student Result Management System is a technological opportunity for the school, college, university and coaching centre institutions searching for a secure, simple and alternative solution to the conventional paper-based exam results evaluation, reporting and distribution.
 
 PROBLEM STATEMENT:
@@ -11,11 +11,11 @@ TECHNOLOGY USED:
            
 FUTURE WORK:
       In summary, the future scope of the project includes:
-•	Generating certificates for students.
-•	Adding more security to prevent hacks.
-•	Adding more advanced features to the Student Result Management System.
-•	Hosting the platform on online servers for worldwide accessibility. In the past, data used to be manually inserted for result analysis, but now the project uses SQL files for data extraction.
-•	Data can be fetched and parsed in various formats such as doc, csv, and odt. Additionally, there is potential for data visualization using pie charts, graphs, and other methods. 
-•	The project can be made more interactive and user friendly by adding features such as a group chat for students to discuss various engineering issues, thus fulfilling each user's needs in the best way possible.
+•Generating certificates for students.
+•Adding more security to prevent hacks.
+•Adding more advanced features to the Student Result Management System.
+•Hosting the platform on online servers for worldwide accessibility. In the past, data used to be manually inserted for result analysis, but now the project uses SQL files for data extraction.
+•Data can be fetched and parsed in various formats such as doc, csv, and odt. Additionally, there is potential for data visualization using pie charts, graphs, and other methods. 
+•The project can be made more interactive and user friendly by adding features such as a group chat for students to discuss various engineering issues, thus fulfilling each user's needs in the best way possible.
 
 
