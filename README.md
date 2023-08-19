@@ -10,12 +10,12 @@ TECHNOLOGY USED:<br>
  	The Student Result Management System uses technologies like Php, Python, MySQL to provide real-time data insights and automate time-consuming tasks. In this Project, I have used the Python Language with Database using Visual Studio Code Tool. It manages all the information about Result, Student Details, Course. All the fields such as Result, Student, Course are validated and does not take invalid values. The admins can easily search the data of the student, even they can add, delete, update, search and export the data easily. 
            
 FUTURE WORK:<br>
-      In summary, the future scope of the project includes:
-•Generating certificates for students.
-•Adding more security to prevent hacks.
-•Adding more advanced features to the Student Result Management System.
-•Hosting the platform on online servers for worldwide accessibility. In the past, data used to be manually inserted for result analysis, but now the project uses SQL files for data extraction.
-•Data can be fetched and parsed in various formats such as doc, csv, and odt. Additionally, there is potential for data visualization using pie charts, graphs, and other methods. 
+      In summary, the future scope of the project includes:<br>
+•Generating certificates for students.<br>
+•Adding more security to prevent hacks.<br>
+•Adding more advanced features to the Student Result Management System.<br>
+•Hosting the platform on online servers for worldwide accessibility.In the past, data used to be manually inserted for result analysis, but now the project uses SQL files for data extraction.<br>
+•Data can be fetched and parsed in various formats such as doc, csv, and odt. Additionally, there is potential for data visualization using pie charts, graphs, and other methods. <br>
 •The project can be made more interactive and user friendly by adding features such as a group chat for students to discuss various engineering issues, thus fulfilling each user's needs in the best way possible.
 
 
